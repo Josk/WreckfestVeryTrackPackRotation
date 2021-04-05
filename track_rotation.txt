@@ -1,0 +1,2520 @@
+# Race 0
+# Location: michigan speedway
+# Track Name: michigan speedway
+el_add=ovals_michiganspeedway
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 1
+# Location: head-on layout
+# Track Name: head-on layout
+el_add=grenland_head_on
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 2
+# Location: birkeland
+# Track Name: birkeland
+el_add=misc_birkeland
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 3
+# Location: zigzag
+# Track Name: zigzag
+el_add=gardemoen_zigzag
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 4
+# Location: brønnøy reverse
+# Track Name: brønnøy reverse
+el_add=rallycross_bronnoy_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 5
+# Location: joker layout
+# Track Name: joker layout
+el_add=grenland_joker
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 6
+# Location: dragstrip (1 lap only)
+# Track Name: dragstrip (1 lap only)
+el_add=gardemoen_dragstrip
+el_gamemode=racing
+el_num_teams=
+el_laps=1
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 7
+# Location: stage 4
+# Track Name: stage 4
+el_add=farmlands_s4
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 8
+# Location: event 06 - stadium race
+# Track Name: event 06 - stadium race
+el_add=colosseum_event_06
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 9
+# Location: redwood ring oval reverse
+# Track Name: redwood ring oval reverse
+el_add=ovals_rwror
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 10
+# Location: pocono route 3
+# Track Name: pocono route 3
+el_add=pocono_route_3
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 11
+# Location: elevated eight
+# Track Name: elevated eight
+el_add=fig8_elevatedeight
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 12
+# Location: brønnøy
+# Track Name: brønnøy
+el_add=rallycross_bronnoy
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 13
+# Location: lyngås original reverse
+# Track Name: lyngås original reverse
+el_add=lyngas_lyngas_original_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 14
+# Location: stage 1
+# Track Name: stage 1
+el_add=farmlands_s1
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 15
+# Location: pit stop
+# Track Name: pit stop
+el_add=misc_pitstop
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 16
+# Location: harbor 07
+# Track Name: harbor 07
+el_add=ovals_harbor_07
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 17
+# Location: black sails valley
+# Track Name: black sails valley
+el_add=misc_bsv
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 18
+# Location: sca u. raceway fast
+# Track Name: sca u. raceway fast
+el_add=misc_sca_fast
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 19
+# Location: pocono oval
+# Track Name: pocono oval
+el_add=pocono_oval
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 20
+# Location: pocono route 3 reverse
+# Track Name: pocono route 3 reverse
+el_add=pocono_route_3_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 21
+# Location: pine hills raceway
+# Track Name: pine hills raceway
+el_add=ovals_phr
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 22
+# Location: orange speedway reverse
+# Track Name: orange speedway reverse
+el_add=ovals_osr
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 23
+# Location: howling wolfs raceway reverse
+# Track Name: howling wolfs raceway reverse
+el_add=rallycross_hw_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 24
+# Location: main derby
+# Track Name: main derby
+el_add=arenas_nfdd
+el_gamemode=derby
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 25
+# Location: stage 2 reverse
+# Track Name: stage 2 reverse
+el_add=farmlands_s2_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 26
+# Location: red pike arena oval
+# Track Name: red pike arena oval
+el_add=ovals_rpa_oval
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 27
+# Location: oval
+# Track Name: oval
+el_add=gardemoen_drag_oval
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 28
+# Location: redwood ring oval
+# Track Name: redwood ring oval
+el_add=ovals_rwro
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 29
+# Location: dakar s02 drag
+# Track Name: dakar s02 drag
+el_add=misc_dakar_s02_drag
+el_gamemode=racing
+el_num_teams=
+el_laps=1
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 30
+# Location: dragstrip long (1 lap only)
+# Track Name: dragstrip long (1 lap only)
+el_add=gardemoen_dragstrip_long
+el_gamemode=racing
+el_num_teams=
+el_laps=1
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 31
+# Location: caprio county raceway reverse
+# Track Name: caprio county raceway reverse
+el_add=misc_ccr_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 32
+# Location: knobhill
+# Track Name: knobhill
+el_add=misc_knockhill
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 33
+# Location: oval with jump
+# Track Name: oval with jump
+el_add=ovals_nfdovaljump
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 34
+# Location: ccr ramp reverse
+# Track Name: ccr ramp reverse
+el_add=misc_ccr_ramp_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 35
+# Location: rugsland
+# Track Name: rugsland
+el_add=rallycross_rugsland
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 36
+# Location: sca ultimate raceway
+# Track Name: sca ultimate raceway
+el_add=misc_sca
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 37
+# Location: r. r. rallycross reverse
+# Track Name: r. r. rallycross reverse
+el_add=rallycross_rwrrr
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 38
+# Location: dune race
+# Track Name: dune race
+el_add=misc_dunerace
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 39
+# Location: derby banked e. big ramp
+# Track Name: derby banked e. big ramp
+el_add=fig8_derbybankedeightbigramp
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 40
+# Location: pocono route 6
+# Track Name: pocono route 6
+el_add=pocono_route_6
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 41
+# Location: lakewood oval
+# Track Name: lakewood oval
+el_add=ovals_lakewood
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 42
+# Location: dakar s04 danger 01
+# Track Name: dakar s04 danger 01
+el_add=misc_dakar_s04
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 43
+# Location: rwr minioval
+# Track Name: rwr minioval
+el_add=ovals_rwr_minioval
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 44
+# Location: harbor 02
+# Track Name: harbor 02
+el_add=misc_harbor_02
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 45
+# Location: event 01 - figure 8
+# Track Name: event 01 - figure 8
+el_add=colosseum_event_01
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 46
+# Location: derby boom
+# Track Name: derby boom
+el_add=fig8_boom
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 48
+# Location: dakar s05 dragstorm
+# Track Name: dakar s05 dragstorm
+el_add=misc_dakar_s05_dragstorm
+el_gamemode=racing
+el_num_teams=
+el_laps=1
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 49
+# Location: pocono route 4
+# Track Name: pocono route 4
+el_add=pocono_route_4
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 50
+# Location: lyngås original
+# Track Name: lyngås original
+el_add=lyngas_lyngas_original
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 51
+# Location: rock bottom derby
+# Track Name: rock bottom derby
+el_add=arenas_rbderby
+el_gamemode=derby
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 52
+# Location: hurtfull five
+# Track Name: hurtfull five
+el_add=fig8_hurtfullfive
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 53
+# Location: pennsboro
+# Track Name: pennsboro
+el_add=ovals_pennsboro
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 54
+# Location: harbor 04
+# Track Name: harbor 04
+el_add=fig8_harbor_04
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 55
+# Location: arendal triangle reverse
+# Track Name: arendal triangle reverse
+el_add=ovals_arendaltriangle_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 56
+# Location: orange speedway
+# Track Name: orange speedway
+el_add=ovals_os
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 57
+# Location: knobhill oval reverse
+# Track Name: knobhill oval reverse
+el_add=ovals_knockhill_oval_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 58
+# Location: howling wolfs raceway
+# Track Name: howling wolfs raceway
+el_add=rallycross_hw
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 59
+# Location: red pike race
+# Track Name: red pike race
+el_add=fig8_rpar2017
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 60
+# Location: chalk canyon 2017
+# Track Name: chalk canyon 2017
+el_add=misc_cc2017
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 61
+# Location: woodhill raceway
+# Track Name: woodhill raceway
+el_add=misc_woodhillraceway
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 62
+# Location: stage 3 reverse
+# Track Name: stage 3 reverse
+el_add=farmlands_s3_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 63
+# Location: kristiansand raceway reverse
+# Track Name: kristiansand raceway reverse
+el_add=misc_kristiansandracewayreverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 64
+# Location: rwr tour
+# Track Name: rwr tour
+el_add=misc_rwr_tour
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 65
+# Location: high speed
+# Track Name: high speed
+el_add=misc_nfdhighspeed
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 66
+# Location: lyngås fast reverse
+# Track Name: lyngås fast reverse
+el_add=lyngas_lyngas_fast_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 67
+# Location: orange speedway small
+# Track Name: orange speedway small
+el_add=ovals_osm
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 68
+# Location: brønnøy short
+# Track Name: brønnøy short
+el_add=rallycross_bronnoy_short
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 69
+# Location: arena essex
+# Track Name: arena essex
+el_add=ovals_ae
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 70
+# Location: bridge to nowhere
+# Track Name: bridge to nowhere
+el_add=misc_bridgetonowhere
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 71
+# Location: bugbear island reverse
+# Track Name: bugbear island reverse
+el_add=misc_bugbearislandreverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 72
+# Location: event 12 - mini banger oval
+# Track Name: event 12 - mini banger oval
+el_add=colosseum_event_12
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 73
+# Location: ballistic
+# Track Name: ballistic
+el_add=misc_space_s1
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 74
+# Location: eagle's nest
+# Track Name: eagle's nest
+el_add=misc_eaglesnest
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 75
+# Location: harbor 05
+# Track Name: harbor 05
+el_add=arenas_harbor_05
+el_gamemode=derby
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 76
+# Location: event 08 - obliterate sphere
+# Track Name: event 08 - obliterate sphere
+el_add=colosseum_event_08
+el_gamemode=derby
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 77
+# Location: event 03 - half-pipe derby
+# Track Name: event 03 - half-pipe derby
+el_add=colosseum_event_03
+el_gamemode=derby
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 78
+# Location: harbor 06
+# Track Name: harbor 06
+el_add=misc_harbor_06
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 79
+# Location: greenlake valley
+# Track Name: greenlake valley
+el_add=rallycross_greenlakevalley
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 80
+# Location: event 07 - motocross race
+# Track Name: event 07 - motocross race
+el_add=colosseum_event_07
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 81
+# Location: head-on reverse
+# Track Name: head-on reverse
+el_add=gardemoen_head-on_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 82
+# Location: rugsland reverse
+# Track Name: rugsland reverse
+el_add=rallycross_rugsland_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 83
+# Location: knobhill rallycross long reverse
+# Track Name: knobhill rallycross long reverse
+el_add=rallycross_knockhill_rc_long_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 84
+# Location: harbor 01
+# Track Name: harbor 01
+el_add=misc_harbor_01
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 85
+# Location: sca u. raceway chicane
+# Track Name: sca u. raceway chicane
+el_add=fig8_scac
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 86
+# Location: lyngås slow
+# Track Name: lyngås slow
+el_add=lyngas_lyngas_slow
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 87
+# Location: fast layout
+# Track Name: fast layout
+el_add=grenland_fast
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 88
+# Location: pocono route 5 reverse
+# Track Name: pocono route 5 reverse
+el_add=pocono_route_5_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 89
+# Location: joker reverse layout
+# Track Name: joker reverse layout
+el_add=grenland_joker_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 90
+# Location: event 04 - half-pipe race
+# Track Name: event 04 - half-pipe race
+el_add=colosseum_event_04
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 91
+# Location: pocono route 1 reverse
+# Track Name: pocono route 1 reverse
+el_add=pocono_route_1_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 92
+# Location: folkrace layout
+# Track Name: folkrace layout
+el_add=grenland_folkrace
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 93
+# Location: event 10 - crash canyon
+# Track Name: event 10 - crash canyon
+el_add=colosseum_event_10
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 94
+# Location: pennsboro reverse
+# Track Name: pennsboro reverse
+el_add=ovals_pennsboro_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 95
+# Location: birkeland oval
+# Track Name: birkeland oval
+el_add=ovals_birkeland_oval01
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 96
+# Location: kristiansand raceway
+# Track Name: kristiansand raceway
+el_add=misc_kristiansandraceway
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 97
+# Location: chicane layout
+# Track Name: chicane layout
+el_add=grenland_chicane
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 98
+# Location: oval reverse
+# Track Name: oval reverse
+el_add=gardemoen_drag_oval_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 99
+# Location: event 09 - the pit
+# Track Name: event 09 - the pit
+el_add=colosseum_event_09
+el_gamemode=derby
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 100
+# Location: lupines hill
+# Track Name: lupines hill
+el_add=rallycross_lupineshill
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 101
+# Location: bristol dirt
+# Track Name: bristol dirt
+el_add=ovals_bristol_dirt
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 102
+# Location: dakar s03 drag chicanes
+# Track Name: dakar s03 drag chicanes
+el_add=misc_dakar_s03
+el_gamemode=racing
+el_num_teams=
+el_laps=1
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 103
+# Location: pennsboro minioval
+# Track Name: pennsboro minioval
+el_add=ovals_pennsboro_minioval
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 104
+# Location: stage 3
+# Track Name: stage 3
+el_add=farmlands_s3
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 105
+# Location: wimbledon
+# Track Name: wimbledon
+el_add=ovals_wimbledon
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 106
+# Location: simstox showdown
+# Track Name: simstox showdown
+el_add=rallycross_simstoxshowdown
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 107
+# Location: wimbledon derby
+# Track Name: wimbledon derby
+el_add=arenas_wimbledonderby
+el_gamemode=derby
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 108
+# Location: ccr ramp
+# Track Name: ccr ramp
+el_add=misc_ccr_ramp
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 109
+# Location: dakar s06 storm
+# Track Name: dakar s06 storm
+el_add=misc_dakar_s06_storm
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 110
+# Location: event 11 - banger oval
+# Track Name: event 11 - banger oval
+el_add=colosseum_event_11
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 111
+# Location: king's lynn
+# Track Name: king's lynn
+el_add=ovals_kingslynn
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 112
+# Location: knobhill oval
+# Track Name: knobhill oval
+el_add=ovals_knockhill_oval
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 113
+# Location: warehouse run
+# Track Name: warehouse run
+el_add=misc_nfdwarehouserun
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 114
+# Location: derby banked eight
+# Track Name: derby banked eight
+el_add=fig8_derbybankedeight
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 115
+# Location: dune race reverse
+# Track Name: dune race reverse
+el_add=misc_dunerace_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 116
+# Location: bristol arena
+# Track Name: bristol arena
+el_add=arenas_bristol_arena
+el_gamemode=derby
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 117
+# Location: fig. 8
+# Track Name: fig. 8
+el_add=gardemoen_fig8
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 118
+# Location: warehouse derby
+# Track Name: warehouse derby
+el_add=arenas_nfddwarehouse
+el_gamemode=derby
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 119
+# Location: pocono route 2
+# Track Name: pocono route 2
+el_add=pocono_route_2
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 120
+# Location: pocono route 6 reverse
+# Track Name: pocono route 6 reverse
+el_add=pocono_route_6_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 121
+# Location: brønnøy long
+# Track Name: brønnøy long
+el_add=rallycross_bronnoy_long
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 122
+# Location: arendal triangle
+# Track Name: arendal triangle
+el_add=ovals_arendaltriangle
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 123
+# Location: chicane reverse layout
+# Track Name: chicane reverse layout
+el_add=grenland_chicane_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 124
+# Location: event 05 - oasis derby
+# Track Name: event 05 - oasis derby
+el_add=colosseum_event_05
+el_gamemode=derby
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 125
+# Location: stage 2
+# Track Name: stage 2
+el_add=farmlands_s2
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 126
+# Location: knobhill rallycross long
+# Track Name: knobhill rallycross long
+el_add=rallycross_knockhill_rc_long
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 127
+# Location: stage 5
+# Track Name: stage 5
+el_add=farmlands_s5
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 128
+# Location: bristol banger
+# Track Name: bristol banger
+el_add=ovals_bristol_banger
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 129
+# Location: stage 1 reverse
+# Track Name: stage 1 reverse
+el_add=farmlands_s1_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 130
+# Location: corrosion arena
+# Track Name: corrosion arena
+el_add=arenas_corrosion
+el_gamemode=derby
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 131
+# Location: knobhill reverse
+# Track Name: knobhill reverse
+el_add=misc_knockhill_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 132
+# Location: orange speedway safer
+# Track Name: orange speedway safer
+el_add=ovals_oss
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 133
+# Location: dragstrip chicane (1 lap only)
+# Track Name: dragstrip chicane (1 lap only)
+el_add=gardemoen_dragstrip_chicane
+el_gamemode=racing
+el_num_teams=
+el_laps=1
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 134
+# Location: pocono route 5
+# Track Name: pocono route 5
+el_add=pocono_route_5
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 135
+# Location: sfs
+# Track Name: sfs
+el_add=misc_sfs
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 136
+# Location: lyngås fast
+# Track Name: lyngås fast
+el_add=lyngas_lyngas_fast
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 137
+# Location: red pike arena
+# Track Name: red pike arena
+el_add=arenas_rpa2017
+el_gamemode=derby
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 138
+# Location: bristol
+# Track Name: bristol
+el_add=ovals_bristol
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 139
+# Location: howling wolfs raceway chicane reverse
+# Track Name: howling wolfs raceway chicane reverse
+el_add=rallycross_hw_chicane_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 140
+# Location: lyngås slow reverse
+# Track Name: lyngås slow reverse
+el_add=lyngas_lyngas_slow_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 141
+# Location: green racing park reverse
+# Track Name: green racing park reverse
+el_add=greenracing_crosskart_01_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 142
+# Location: stage 5 reverse
+# Track Name: stage 5 reverse
+el_add=farmlands_s5_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 143
+# Location: green racing park gardermoen
+# Track Name: green racing park gardermoen
+el_add=greenracing_crosskart_01
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 144
+# Location: redwood ring rallycross
+# Track Name: redwood ring rallycross
+el_add=rallycross_rwrr
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 145
+# Location: aremark motorbane
+# Track Name: aremark motorbane
+el_add=rallycross_aremark
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 146
+# Location: crash alley
+# Track Name: crash alley
+el_add=misc_crashalley
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 147
+# Location: folkrace reverse layout
+# Track Name: folkrace reverse layout
+el_add=grenland_folkrace_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 148
+# Location: knobhill rallycross short reverse
+# Track Name: knobhill rallycross short reverse
+el_add=rallycross_knockhill_rc_short_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 149
+# Location: howling wolfs raceway chicane
+# Track Name: howling wolfs raceway chicane
+el_add=rallycross_hw_chicane
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 150
+# Location: arena
+# Track Name: arena
+el_add=gardemoen_arena_01
+el_gamemode=derby
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 151
+# Location: no construction fences reverse
+# Track Name: no construction fences reverse
+el_add=misc_birkeland_reverse_barriers
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 152
+# Location: pennsboro minioval reverse
+# Track Name: pennsboro minioval reverse
+el_add=ovals_pennsboro_minioval_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 153
+# Location: hillside raceway
+# Track Name: hillside raceway
+el_add=ovals_hillsideracewaysmooth
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 154
+# Location: nevada freight depot
+# Track Name: nevada freight depot
+el_add=fig8_nfd
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 155
+# Location: derby banked e. no ramp
+# Track Name: derby banked e. no ramp
+el_add=fig8_derbybankedeightnoramp
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 156
+# Location: event 02 - deathsphere
+# Track Name: event 02 - deathsphere
+el_add=colosseum_event_02
+el_gamemode=derby
+el_num_teams=
+el_laps=
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 157
+# Location: pocono route 2 reverse
+# Track Name: pocono route 2 reverse
+el_add=pocono_route_2_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 158
+# Location: dakar s01
+# Track Name: dakar s01
+el_add=misc_dakar_s01
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 159
+# Location: fast reverse layout
+# Track Name: fast reverse layout
+el_add=grenland_fast_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 160
+# Location: stage 4 reverse
+# Track Name: stage 4 reverse
+el_add=farmlands_s4_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 161
+# Location: no construction fences
+# Track Name: no construction fences
+el_add=misc_birkeland_barriers
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 162
+# Location: zigzag reverse
+# Track Name: zigzag reverse
+el_add=gardemoen_zigzag_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 163
+# Location: aremark m. reverse
+# Track Name: aremark m. reverse
+el_add=rallycross_aremark_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 164
+# Location: talladega
+# Track Name: talladega
+el_add=ovals_talledega
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 165
+# Location: caprio county raceway
+# Track Name: caprio county raceway
+el_add=misc_ccr
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 166
+# Location: head-on
+# Track Name: head-on
+el_add=gardemoen_head-on
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 167
+# Location: oval reverse
+# Track Name: oval reverse
+el_add=pocono_oval_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 168
+# Location: pocono route 1
+# Track Name: pocono route 1
+el_add=pocono_route_1
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 169
+# Location: bsv reverse day
+# Track Name: bsv reverse day
+el_add=misc_bsv_reverse_day
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 170
+# Location: emmen raceway
+# Track Name: emmen raceway
+el_add=ovals_emmenraceway
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 171
+# Location: pocono route 4 reverse
+# Track Name: pocono route 4 reverse
+el_add=pocono_route_4_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 172
+# Location: derby banked e. safe
+# Track Name: derby banked e. safe
+el_add=fig8_derbybankedeightsafe
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 173
+# Location: birkeland reverse
+# Track Name: birkeland reverse
+el_add=misc_birkeland_reverse
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 174
+# Location: wimbledon figure 8
+# Track Name: wimbledon figure 8
+el_add=fig8_wimbledonfig8
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 175
+# Location: ringwood
+# Track Name: ringwood
+el_add=ovals_ringwood
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 176
+# Location: knobhill rallycross short
+# Track Name: knobhill rallycross short
+el_add=rallycross_knockhill_rc_short
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 177
+# Location: rock bottom race
+# Track Name: rock bottom race
+el_add=misc_rbrace
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 178
+# Location: harbor 03
+# Track Name: harbor 03
+el_add=misc_harbor_03
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 179
+# Location: pine hills reverse
+# Track Name: pine hills reverse
+el_add=ovals_phrr
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+
+# Race 180
+# Location: bugbear island
+# Track Name: bugbear island
+el_add=misc_bugbearisland
+el_gamemode=racing
+el_num_teams=
+el_laps=5
+el_elimination_interval=0
+el_car_reset_disabled=0
+el_wrong_way_limiter_disabled=1
+#el_car_class_restriction=a
+el_car_restriction=
+el_weather=random
+

@@ -1,0 +1,2343 @@
+<?xml version="1.0" ?>
+<Tracks>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_michiganspeedway</Name>
+		<DisplayName>michigan speedway</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>grenland_head_on</Name>
+		<DisplayName>head-on layout</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_birkeland</Name>
+		<DisplayName>birkeland</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>gardemoen_zigzag</Name>
+		<DisplayName>zigzag</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>rallycross_bronnoy_reverse</Name>
+		<DisplayName>brønnøy reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>grenland_joker</Name>
+		<DisplayName>joker layout</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>gardemoen_dragstrip</Name>
+		<DisplayName>dragstrip (1 lap only)</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>farmlands_s4</Name>
+		<DisplayName>stage 4</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>colosseum_event_06</Name>
+		<DisplayName>event 06 - stadium race</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_rwror</Name>
+		<DisplayName>redwood ring oval reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>pocono_route_3</Name>
+		<DisplayName>pocono route 3</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>fig8_elevatedeight</Name>
+		<DisplayName>elevated eight</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>rallycross_bronnoy</Name>
+		<DisplayName>brønnøy</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>lyngas_lyngas_original_reverse</Name>
+		<DisplayName>lyngås original reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>farmlands_s1</Name>
+		<DisplayName>stage 1</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_pitstop</Name>
+		<DisplayName>pit stop</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_harbor_07</Name>
+		<DisplayName>harbor 07</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_bsv</Name>
+		<DisplayName>black sails valley</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_sca_fast</Name>
+		<DisplayName>sca u. raceway fast</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>pocono_oval</Name>
+		<DisplayName>pocono oval</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>pocono_route_3_reverse</Name>
+		<DisplayName>pocono route 3 reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_phr</Name>
+		<DisplayName>pine hills raceway</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_osr</Name>
+		<DisplayName>orange speedway reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>rallycross_hw_reverse</Name>
+		<DisplayName>howling wolfs raceway reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>arenas_nfdd</Name>
+		<DisplayName>main derby</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>derby</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>farmlands_s2_reverse</Name>
+		<DisplayName>stage 2 reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_rpa_oval</Name>
+		<DisplayName>red pike arena oval</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>gardemoen_drag_oval</Name>
+		<DisplayName>oval</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_rwro</Name>
+		<DisplayName>redwood ring oval</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_dakar_s02_drag</Name>
+		<DisplayName>dakar s02 drag</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>gardemoen_dragstrip_long</Name>
+		<DisplayName>dragstrip long (1 lap only)</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_ccr_reverse</Name>
+		<DisplayName>caprio county raceway reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_knockhill</Name>
+		<DisplayName>knobhill</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_nfdovaljump</Name>
+		<DisplayName>oval with jump</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_ccr_ramp_reverse</Name>
+		<DisplayName>ccr ramp reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>rallycross_rugsland</Name>
+		<DisplayName>rugsland</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_sca</Name>
+		<DisplayName>sca ultimate raceway</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>rallycross_rwrrr</Name>
+		<DisplayName>r. r. rallycross reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_dunerace</Name>
+		<DisplayName>dune race</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>fig8_derbybankedeightbigramp</Name>
+		<DisplayName>derby banked e. big ramp</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>pocono_route_6</Name>
+		<DisplayName>pocono route 6</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_lakewood</Name>
+		<DisplayName>lakewood oval</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_dakar_s04</Name>
+		<DisplayName>dakar s04 danger 01</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_rwr_minioval</Name>
+		<DisplayName>rwr minioval</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_harbor_02</Name>
+		<DisplayName>harbor 02</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>colosseum_event_01</Name>
+		<DisplayName>event 01 - figure 8</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>fig8_boom</Name>
+		<DisplayName>derby boom</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_dakar_s05_dragstorm</Name>
+		<DisplayName>dakar s05 dragstorm</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>pocono_route_4</Name>
+		<DisplayName>pocono route 4</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>lyngas_lyngas_original</Name>
+		<DisplayName>lyngås original</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>arenas_rbderby</Name>
+		<DisplayName>rock bottom derby</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>derby</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>fig8_hurtfullfive</Name>
+		<DisplayName>hurtfull five</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_pennsboro</Name>
+		<DisplayName>pennsboro</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>fig8_harbor_04</Name>
+		<DisplayName>harbor 04</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_arendaltriangle_reverse</Name>
+		<DisplayName>arendal triangle reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_os</Name>
+		<DisplayName>orange speedway</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_knockhill_oval_reverse</Name>
+		<DisplayName>knobhill oval reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>rallycross_hw</Name>
+		<DisplayName>howling wolfs raceway</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>fig8_rpar2017</Name>
+		<DisplayName>red pike race</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_cc2017</Name>
+		<DisplayName>chalk canyon 2017</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_woodhillraceway</Name>
+		<DisplayName>woodhill raceway</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>farmlands_s3_reverse</Name>
+		<DisplayName>stage 3 reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_kristiansandracewayreverse</Name>
+		<DisplayName>kristiansand raceway reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_rwr_tour</Name>
+		<DisplayName>rwr tour</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_nfdhighspeed</Name>
+		<DisplayName>high speed</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>lyngas_lyngas_fast_reverse</Name>
+		<DisplayName>lyngås fast reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_osm</Name>
+		<DisplayName>orange speedway small</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>rallycross_bronnoy_short</Name>
+		<DisplayName>brønnøy short</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_ae</Name>
+		<DisplayName>arena essex</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_bridgetonowhere</Name>
+		<DisplayName>bridge to nowhere</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_bugbearislandreverse</Name>
+		<DisplayName>bugbear island reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>colosseum_event_12</Name>
+		<DisplayName>event 12 - mini banger oval</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_space_s1</Name>
+		<DisplayName>ballistic</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_eaglesnest</Name>
+		<DisplayName>eagle's nest</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>arenas_harbor_05</Name>
+		<DisplayName>harbor 05</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>derby</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>colosseum_event_08</Name>
+		<DisplayName>event 08 - obliterate sphere</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>derby</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>colosseum_event_03</Name>
+		<DisplayName>event 03 - half-pipe derby</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>derby</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_harbor_06</Name>
+		<DisplayName>harbor 06</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>rallycross_greenlakevalley</Name>
+		<DisplayName>greenlake valley</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>colosseum_event_07</Name>
+		<DisplayName>event 07 - motocross race</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>gardemoen_head-on_reverse</Name>
+		<DisplayName>head-on reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>rallycross_rugsland_reverse</Name>
+		<DisplayName>rugsland reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>rallycross_knockhill_rc_long_reverse</Name>
+		<DisplayName>knobhill rallycross long reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_harbor_01</Name>
+		<DisplayName>harbor 01</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>fig8_scac</Name>
+		<DisplayName>sca u. raceway chicane</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>lyngas_lyngas_slow</Name>
+		<DisplayName>lyngås slow</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>grenland_fast</Name>
+		<DisplayName>fast layout</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>pocono_route_5_reverse</Name>
+		<DisplayName>pocono route 5 reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>grenland_joker_reverse</Name>
+		<DisplayName>joker reverse layout</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>colosseum_event_04</Name>
+		<DisplayName>event 04 - half-pipe race</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>pocono_route_1_reverse</Name>
+		<DisplayName>pocono route 1 reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>grenland_folkrace</Name>
+		<DisplayName>folkrace layout</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>colosseum_event_10</Name>
+		<DisplayName>event 10 - crash canyon</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_pennsboro_reverse</Name>
+		<DisplayName>pennsboro reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_birkeland_oval01</Name>
+		<DisplayName>birkeland oval</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_kristiansandraceway</Name>
+		<DisplayName>kristiansand raceway</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>grenland_chicane</Name>
+		<DisplayName>chicane layout</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>gardemoen_drag_oval_reverse</Name>
+		<DisplayName>oval reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>colosseum_event_09</Name>
+		<DisplayName>event 09 - the pit</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>derby</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>rallycross_lupineshill</Name>
+		<DisplayName>lupines hill</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_bristol_dirt</Name>
+		<DisplayName>bristol dirt</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_dakar_s03</Name>
+		<DisplayName>dakar s03 drag chicanes</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_pennsboro_minioval</Name>
+		<DisplayName>pennsboro minioval</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>farmlands_s3</Name>
+		<DisplayName>stage 3</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_wimbledon</Name>
+		<DisplayName>wimbledon</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>rallycross_simstoxshowdown</Name>
+		<DisplayName>simstox showdown</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>arenas_wimbledonderby</Name>
+		<DisplayName>wimbledon derby</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>derby</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_ccr_ramp</Name>
+		<DisplayName>ccr ramp</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_dakar_s06_storm</Name>
+		<DisplayName>dakar s06 storm</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>colosseum_event_11</Name>
+		<DisplayName>event 11 - banger oval</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_kingslynn</Name>
+		<DisplayName>king's lynn</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_knockhill_oval</Name>
+		<DisplayName>knobhill oval</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_nfdwarehouserun</Name>
+		<DisplayName>warehouse run</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>fig8_derbybankedeight</Name>
+		<DisplayName>derby banked eight</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_dunerace_reverse</Name>
+		<DisplayName>dune race reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>arenas_bristol_arena</Name>
+		<DisplayName>bristol arena</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>derby</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>gardemoen_fig8</Name>
+		<DisplayName>fig. 8</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>arenas_nfddwarehouse</Name>
+		<DisplayName>warehouse derby</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>derby</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>pocono_route_2</Name>
+		<DisplayName>pocono route 2</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>pocono_route_6_reverse</Name>
+		<DisplayName>pocono route 6 reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>rallycross_bronnoy_long</Name>
+		<DisplayName>brønnøy long</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_arendaltriangle</Name>
+		<DisplayName>arendal triangle</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>grenland_chicane_reverse</Name>
+		<DisplayName>chicane reverse layout</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>colosseum_event_05</Name>
+		<DisplayName>event 05 - oasis derby</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>derby</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>farmlands_s2</Name>
+		<DisplayName>stage 2</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>rallycross_knockhill_rc_long</Name>
+		<DisplayName>knobhill rallycross long</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>farmlands_s5</Name>
+		<DisplayName>stage 5</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_bristol_banger</Name>
+		<DisplayName>bristol banger</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>farmlands_s1_reverse</Name>
+		<DisplayName>stage 1 reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>arenas_corrosion</Name>
+		<DisplayName>corrosion arena</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>derby</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_knockhill_reverse</Name>
+		<DisplayName>knobhill reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_oss</Name>
+		<DisplayName>orange speedway safer</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>gardemoen_dragstrip_chicane</Name>
+		<DisplayName>dragstrip chicane (1 lap only)</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>pocono_route_5</Name>
+		<DisplayName>pocono route 5</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_sfs</Name>
+		<DisplayName>sfs</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>lyngas_lyngas_fast</Name>
+		<DisplayName>lyngås fast</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>arenas_rpa2017</Name>
+		<DisplayName>red pike arena</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>derby</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_bristol</Name>
+		<DisplayName>bristol</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>rallycross_hw_chicane_reverse</Name>
+		<DisplayName>howling wolfs raceway chicane reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>lyngas_lyngas_slow_reverse</Name>
+		<DisplayName>lyngås slow reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>greenracing_crosskart_01_reverse</Name>
+		<DisplayName>green racing park reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>farmlands_s5_reverse</Name>
+		<DisplayName>stage 5 reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>greenracing_crosskart_01</Name>
+		<DisplayName>green racing park gardermoen</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>rallycross_rwrr</Name>
+		<DisplayName>redwood ring rallycross</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>rallycross_aremark</Name>
+		<DisplayName>aremark motorbane</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_crashalley</Name>
+		<DisplayName>crash alley</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>grenland_folkrace_reverse</Name>
+		<DisplayName>folkrace reverse layout</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>rallycross_knockhill_rc_short_reverse</Name>
+		<DisplayName>knobhill rallycross short reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>rallycross_hw_chicane</Name>
+		<DisplayName>howling wolfs raceway chicane</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>gardemoen_arena_01</Name>
+		<DisplayName>arena</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>derby</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_birkeland_reverse_barriers</Name>
+		<DisplayName>no construction fences reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_pennsboro_minioval_reverse</Name>
+		<DisplayName>pennsboro minioval reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_hillsideracewaysmooth</Name>
+		<DisplayName>hillside raceway</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>fig8_nfd</Name>
+		<DisplayName>nevada freight depot</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>fig8_derbybankedeightnoramp</Name>
+		<DisplayName>derby banked e. no ramp</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>colosseum_event_02</Name>
+		<DisplayName>event 02 - deathsphere</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>derby</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>pocono_route_2_reverse</Name>
+		<DisplayName>pocono route 2 reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_dakar_s01</Name>
+		<DisplayName>dakar s01</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>grenland_fast_reverse</Name>
+		<DisplayName>fast reverse layout</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>farmlands_s4_reverse</Name>
+		<DisplayName>stage 4 reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_birkeland_barriers</Name>
+		<DisplayName>no construction fences</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>gardemoen_zigzag_reverse</Name>
+		<DisplayName>zigzag reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>rallycross_aremark_reverse</Name>
+		<DisplayName>aremark m. reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_talledega</Name>
+		<DisplayName>talladega</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_ccr</Name>
+		<DisplayName>caprio county raceway</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>gardemoen_head-on</Name>
+		<DisplayName>head-on</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>pocono_oval_reverse</Name>
+		<DisplayName>oval reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>pocono_route_1</Name>
+		<DisplayName>pocono route 1</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_bsv_reverse_day</Name>
+		<DisplayName>bsv reverse day</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_emmenraceway</Name>
+		<DisplayName>emmen raceway</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>pocono_route_4_reverse</Name>
+		<DisplayName>pocono route 4 reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>fig8_derbybankedeightsafe</Name>
+		<DisplayName>derby banked e. safe</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_birkeland_reverse</Name>
+		<DisplayName>birkeland reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>fig8_wimbledonfig8</Name>
+		<DisplayName>wimbledon figure 8</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_ringwood</Name>
+		<DisplayName>ringwood</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>rallycross_knockhill_rc_short</Name>
+		<DisplayName>knobhill rallycross short</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_rbrace</Name>
+		<DisplayName>rock bottom race</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_harbor_03</Name>
+		<DisplayName>harbor 03</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>ovals_phrr</Name>
+		<DisplayName>pine hills reverse</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+	<Track Direction="Clockwise">
+		<IsMod>true</IsMod>
+		<Name>misc_bugbearisland</Name>
+		<DisplayName>bugbear island</DisplayName>
+		<ImageFileName/>
+		<LayoutFileName/>
+		<Weathers/>
+		<Length>0</Length>
+		<Area>0</Area>
+		<GameType>
+			<Name>racing</Name>
+		</GameType>
+	</Track>
+</Tracks>
